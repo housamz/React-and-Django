@@ -1,4 +1,3 @@
-# React 01
 # Introduction Topics
 
 1. An introduction to React and its advantages.
